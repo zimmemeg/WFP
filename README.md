@@ -10,4 +10,5 @@ you will need to download the files and install the blog.sql into your mysql ser
 12/17/13 - Created CodeIgniter file structure.<br>
 12/18/13 - Got pages to display. Working on log in and detail display.<br>
 12/18/13 - All files in Codeigniter file structure. Log in functioning, admin files included within main folder.
-Working on displaying latest and posting to the database.
+Working on displaying latest and posting to the database.<br>
+12/18/13 - Webpage functioning. Final update for launch.
