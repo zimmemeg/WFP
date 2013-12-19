@@ -11,6 +11,7 @@ class Blog {
   
         $this->db->select('id, subject, content, summary');
         $this->db->from('posts');
+        $this->db->order_by('id', 'desc');
         $result = $this->db->get();
         
         if($result->num_rows() > 0){
